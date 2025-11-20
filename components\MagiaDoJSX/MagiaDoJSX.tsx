@@ -1,4 +1,4 @@
-export default function page(){
+export default function MagiaDoJSX(){
     return(
         <div className='bg-blue-300 p-3 m-3 rounded-x1'>
          <p>Este e o meu componente MagiaDoJSX.</p>
